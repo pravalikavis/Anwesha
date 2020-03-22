@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "935106288154",
+    "firebase_url": "https://anwesha-b7124.firebaseio.com",
+    "project_id": "anwesha-b7124",
+    "storage_bucket": "anwesha-b7124.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935106288154:android:a39ff7539a57af29",
+        "android_client_info": {
+          "package_name": "com.example.lakshmi.anwesha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935106288154-225u48e87hr3ofj4sdeu22kda20krkf6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lakshmi.anwesha",
+            "certificate_hash": "5e8e355c299f650c30e12dc56da1004152dfd0b9"
+          }
+        },
+        {
+          "client_id": "935106288154-fdvqnqgbem53tocigian2tf72lu7bafo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1TkhbiCVOZXB6H2sjaE6TGDbQ6mpq50s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935106288154-fdvqnqgbem53tocigian2tf72lu7bafo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
